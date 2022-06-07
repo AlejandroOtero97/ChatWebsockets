@@ -1,0 +1,15 @@
+#output {
+    height: 250px;
+    width: 100%;
+}
+
+input { 
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid orange;
+}
+
+button {
+    border-radius: 5px;
+    border: 1px solid orange;
+}
